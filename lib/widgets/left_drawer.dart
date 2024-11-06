@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:mental_health_tracker/screens/menu.dart'; // Impor halaman MyHomePage
-import 'package:mental_health_tracker/screens/moodentry_form.dart'; // Impor halaman MoodEntryFormPage
+import 'package:mental_health_tracker/screens/menu.dart'; 
+import 'package:mental_health_tracker/screens/moodentry_form.dart';
 
 class LeftDrawer extends StatelessWidget {
   const LeftDrawer({super.key});
